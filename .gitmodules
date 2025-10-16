@@ -1,0 +1,3 @@
+[submodule "Homework/advances_python_hw"]
+	path = Homework/advances_python_hw
+	url = git@github.com:ThomasJager99/advances_python_hw.git

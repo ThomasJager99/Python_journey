@@ -4,3 +4,6 @@
 [submodule "homework/python_advanced_hw_django"]
 	path = homework/python_advanced_hw_django
 	url = https://github.com/ThomasJager99/python_advanced_hw_django.git
+[submodule "homework/community_pulse"]
+	path = homework/community_pulse
+	url = https://github.com/ThomasJager99/community_pulse.git

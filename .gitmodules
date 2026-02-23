@@ -7,3 +7,6 @@
 [submodule "homework/community_pulse"]
 	path = homework/community_pulse
 	url = https://github.com/ThomasJager99/community_pulse.git
+[submodule "homework/django_practice"]
+	path = homework/django_practice
+	url = https://github.com/ThomasJager99/django_practice.git

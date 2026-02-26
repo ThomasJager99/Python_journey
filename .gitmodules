@@ -10,3 +10,6 @@
 [submodule "homework/django_lessons"]
 	path = homework/django_lessons
 	url = https://github.com/ThomasJager99/django_lessons.git
+[submodule "homework/django_homework"]
+	path = homework/django_homework
+	url = https://github.com/ThomasJager99/django_homework.git
